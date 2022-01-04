@@ -1,0 +1,33 @@
+---
+title: "R Markdown Practice"
+author: "Garja Singh"
+date: "1/4/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+#install.packages("tidyverse")
+library("tidyverse")
+```
+```{r}
+4*8
+```
+```{r}
+15+14
+```
+
+```{r}
+15-76
+```
+
+```{r}
+45/5
+```
+#HELLO#
+######BYE
+`#`#`#`#GARHA
+##############################GARJA
+
